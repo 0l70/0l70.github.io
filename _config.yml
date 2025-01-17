@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: 0l70 # author name
-  bio: To be Python master # tell to the world
+  bio: 코드 제작소 # tell to the world
   username: 0l70 # general username
   github: 0l70 # github username
   twitter: X # twitter username
