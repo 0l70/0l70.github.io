@@ -1,13 +1,12 @@
 ---
-title: Acknowledgment
+title: 회고
 permalink: /thanks/
 layout: page
-excerpt: Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
 comments: false
 ---
 
-Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+처음 코딩을 시작했을 땐 영어 단어 해석(ex. print: 프린트? 이거 복사되나)하고 목적도 몰랐었지만, 이젠 이해하고 활용할 수 있는 사람이 되었다. 조금의 이해력과 노력이 실력을 만든다는 것을 알게 됐다.
 
 <hr>
 
-Hopefully the knowledge that I got from them can be useful, and become a charity for them, Aamiin.
+해보자구 화이팅!
