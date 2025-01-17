@@ -6,8 +6,8 @@ excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in
 comments: false
 ---
 
-두산 로키 부트캠프 3기 수강중
-Python --> ing
+# **두산 로키 부트캠프 3기 수강중**
+### *Python* --> ing
 
 **연락처✨**
 - {{ site.author.email }}
